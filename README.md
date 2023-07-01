@@ -1,0 +1,2 @@
+# ZigLearn
+This repo consisits of chapter files where I hand type what I read in Ziglearn, so to get the feeling into my hands. And a scratchpad main.zig where I run any interesting code from the lessons.
